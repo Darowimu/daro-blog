@@ -5,6 +5,10 @@ export const theme: ThemeConfig = [
     name: 'night',
     text: '🌃 Night',
   },
+  {
+    name: 'lemonade',
+    text: '🌃 Light',
+  },
 ]
 
 export const head: HeadConfig = {}
