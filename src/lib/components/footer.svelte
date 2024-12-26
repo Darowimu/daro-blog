@@ -29,15 +29,7 @@
         : new Date().toJSON().substring(0, 4)}
       {site.author.name}
       <br />
-      Powered by
-      <a
-        class='tooltip tooltip-secondary hover:text-secondary'
-        data-tip='🌸 [Polaris] - Based on MDsveX & SvelteKit 🌸'
-        href='https://github.com/importantimport/urara'
-        rel='noopener noreferrer external'
-        target='_blank'>
-        Urara
-      </a>
+      
       {#if footerConfig.html}
         <br />
         {@html footerConfig.html}
