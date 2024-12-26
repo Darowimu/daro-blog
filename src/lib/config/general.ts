@@ -33,6 +33,10 @@ export const footer: FooterConfig = {
       text: 'Feed',
     },
     {
+      link: '/atom.xml',
+      text: 'Feed',
+    },
+    {
       link: '/sitemap.xml',
       text: 'Sitemap',
     },
