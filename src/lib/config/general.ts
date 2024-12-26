@@ -29,8 +29,8 @@ export const header: HeaderConfig = {
 export const footer: FooterConfig = {
   nav: [
     {
-      link: '/atom.xml',
-      text: 'Feed',
+      link: 'https://labs.darowimu.freeddns.org/',
+      text: "Daro Lab's",
     },
     {
       link: '/atom.xml',
